@@ -43,3 +43,33 @@ li {
   border: 1px solid #e4e7ec;
   border-radius: 10px;
 }
+.overview {
+  margin-bottom: 20px;
+}
+.weather-temperature img {
+  margin-right: 5px;
+  height: 64px;
+  width: 64px;
+}
+.weather-temperature strong {
+  font-size: 64px;
+  line-height: 56px;
+  color: #202124;
+  letter-spacing: normal;
+  font-family: Google Sans, arial, sans-serif;
+  font-weight: 400;
+  display: inline;
+}
+.weather-temperature .units {
+  position: relative;
+  font-family: arial, sans-serif;
+  font-weight: normal;
+  color: #202124;
+  font-size: 16px;
+  top: -34px;
+  line-height: 24px;
+  display: inline;
+}
+.weather-temperature .units a {
+  text-decoration: none;
+}
