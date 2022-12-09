@@ -77,3 +77,10 @@ li:first-letter {
 .weather-temperature .units a {
   text-decoration: none;
 }
+.active {
+  color: black;
+  cursor: default;
+}
+.active:hover {
+  text-decoration: none;
+}
