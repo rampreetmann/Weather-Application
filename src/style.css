@@ -38,6 +38,7 @@ li:first-letter {
 }
 .weather-app-wrapper {
   max-width: 600px;
+  min-width: 601px;
   margin: 30px auto;
 }
 .weather-app {
